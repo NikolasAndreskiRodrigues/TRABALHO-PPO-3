@@ -1,0 +1,4 @@
+1,Troca o Toner,Trocar toner da impressora na area de manutenção,2024-06-21
+2,Internet está fora no computador,O cabo está conectado mas o computador continua sem internet,2024-06-21
+3,Meu pc com simbolo do windowns,Meu pc está com simbolo do windowns por favor corrigir,2024-06-21
+4,Resetar maquina virtual,por favor resetar maquina virtual,2024-06-25
